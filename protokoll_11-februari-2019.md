@@ -1,8 +1,8 @@
 ## Game Jam
-## 21 Januari 2019
+## 11 Februari 2019
 
 ## Närvarande
-Erik Mansén, Robin Sliwa, Emil Segerbäck, Frans Skarman, Axel 
+Erik Mansén, Robin Sliwa, Emil Segerbäck, Frans Skarman, Axel Nordanskog
 
 ## Mötets öppnande
 12:15

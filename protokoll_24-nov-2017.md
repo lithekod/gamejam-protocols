@@ -1,5 +1,5 @@
 ## Game Jam
-## 10 November 2017
+## 24 November 2017
 
 ## Närvarande
 Erik Mansén, Emil Segerbäck, Robin Sliwa, Ingemar Ragnemalm (Jesper Tingvall)

@@ -1,5 +1,5 @@
 ## Game Jam
-## 18 Augusti 2018
+## 07 December 2018
 
 ## Närvarande
 Erik Mansén, Robin Sliwa, Jesper Tingvall (Via internet), Emil Segerbäck, Frans Skarman
