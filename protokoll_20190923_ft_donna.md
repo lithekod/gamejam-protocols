@@ -33,5 +33,8 @@ Där kan tjejanmälan först vara intressant.
 
 ESG Equal Play är också gärna med på ett hörn.
 
+## Övriga evenemang
+Donna är för övrigt intresserade av att ha fler evenemang i samarbete med LiTHe kod.
+
 ## Mötet avslutas
 ca 17:40
