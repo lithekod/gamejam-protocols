@@ -60,3 +60,4 @@ Fritextfält var ett misstag.
 Den är lite mer strukturerad.
 
 ## Mötet avslutas
+13:00
