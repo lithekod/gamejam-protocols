@@ -43,6 +43,11 @@ Glöm inte att fylla på databladet på drive om eventet.
 
 Skriv ett inlägg i eventet i god tid om att folk ska klicka i att de kommer om de kommer.
 
-Komma in i d-sektionens/lius kalender/mailutskick.
+Komma in i d-sektionens/lius kalender/mailutskick: Lintek via LiTHe kod (LiTHanian), D-sektion info@d-sektionen.se, M-sektion, Y-sektion, I inrikting D, Mediateknik, LiU magasin (alumner), LiU Gamers, Studiefrämjandet (icke-studerande)
+
+Göra en push för brädspel. För demo: förklara konceptet. Legenden säger at Ingemar har en så kallad "spellåda". Ragga Ingemar eller Tore som brädspelsansvarig.
+
+Jesper ska pinga på folk
 
 ## Mötet avslutas
+13:31
