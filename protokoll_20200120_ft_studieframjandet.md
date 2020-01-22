@@ -1,13 +1,13 @@
 ## Game Jam
 ## 20 januari 2020
 
-# Närvarande
+## Närvarande
 Lina Stéen, Jesper Tingvall, Axel Nordanskog
 
-# Mötets öppnande
+## Mötets öppnande
 09:58
 
-# Vad är Studiefrämjandet?
+## Vad är Studiefrämjandet?
 Ett förbund för att uppmana till studier genom egen uppsökning av information och utövning av aktiviteter.
 Folk kan starta föreningar som blir s.k. **studiecirklar**, som rapporterar sin verksamhet till Studiefrämjandet.
 
