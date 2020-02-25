@@ -2,8 +2,7 @@
 ## 20 Februari 2020
 
 ## Närvarande
-Axel Nordanskog, Jesper Tingvall, Tomas Ahlström, Alexander Milton, Sanna Rooth från Skylten, Kristoffer Dezsi från kultur och fritid/Linköpings kommun
-
+Axel Nordanskog, Jesper Tingvall, Tomas Ahlström, Alexander Milton, Sanna Rooth (Kulturutvecklare Skylten, Kulturscener och ungdom, Linköpings kommun), Kristoffer Dezsi (Projektledare arrangemang, Kulturscener och ungdom, Linköpings kommun)
 ## Mötets öppnande
 14:02
 
