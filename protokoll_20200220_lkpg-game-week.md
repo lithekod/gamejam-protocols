@@ -2,7 +2,7 @@
 ## 20 Februari 2020
 
 ## Närvarande
-Axel Nordanskog, Jesper Tingvall, Tomas Ahlström, Alexander Milton, Sanna från Skylten, Kristoffer från kultur och fritid/Linköpings kommun
+Axel Nordanskog, Jesper Tingvall, Tomas Ahlström, Alexander Milton, Sanna Rooth från Skylten, Kristoffer Dezsi från kultur och fritid/Linköpings kommun
 
 ## Mötets öppnande
 14:02
