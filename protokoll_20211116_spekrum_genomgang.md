@@ -8,6 +8,7 @@
 ## Taggar
 Finns flera.
 Vi har begärt 3 st.
+Vi får dem på plats vid 16:00 på fredagen.
 Dörrarna autolåses helger men Ebbepark ska se till att de hålls öppna
 automatiskt 09:00-18:00 utanför dessa tider får vi hjälpa folk att komma in.
 Dels kan vi ha några som jobbar nära ingången så att de ser när folk vill in
@@ -15,11 +16,18 @@ men främst bör vi hänvisa till att gå med i Discorden och tagga oss här fö
 att bli insläppta.
 
 
-## Kylskåp
+## Kök
+Finns fullt bestyckat med tallrikar, bestick, glas och små muggar.
+
+### Kylskåp
 Finns ett av under bänken vid varje pentry.
 Tror det fanns tre stycken totalt på plan 1 och 2.
 Vi hade tankar om att man skulle kunna använda ett för frukost, ett för läsk
 och ett till deltagarens förfogande (matlådor och så).
+
+### Behövs tas med
+Kaffe- och vattenkokare.
+Kaffe, te och varm choklad som blandas i vatten.
 
 
 ## Utrymmen
@@ -30,6 +38,7 @@ på vår [planlösning](
 https://drive.google.com/file/d/10q8lQSZJNTl-v6EmlrLGpFi4ekYg5PmW).)
 
 Vi kommer också kunna använda plan 3 om vi känner att vi behöver mer utrymme.
+Plan 3 har också brädspel samt en arkadmaskin som är på väg.
 
 ### Auditorier
 Finns en större gradängsal med 77 platser som ännu inte fått någon skärm så om
@@ -46,6 +55,8 @@ Om vi plockar bort borden får vi mer utrymme för sittplatser men med bord kvar
 fungerar lokalen bra för halvtidsredovisningen då kinamat tänkts ätas
 samtidigt.
 Två TV-apparater med ljudanläggning finns.
+Det skulle behövas en del tid innan starten på fredagen för att göra i ordning
+för fler platser.
 
 ### Arbetsplatser — Mötesrum
 På plan 1 och 2 har vi totalt 11 mötesrum med varsin TV. Dessa borde kunna få
@@ -81,6 +92,11 @@ Detta är vanligtvis lagt söndag kväll klockan 20:00 men de ska istället få 
 ny tid måndag morgon så att vi hinner bli klara söndag kväll.
 
 
+## Parkering
+Man kan parkera under Spektrum (LinPark/Dukaten).
+Finns också 4h-parkering framför byggnaden.
+
+
 ## Info vi kommer få skickat
 
 ### Wifi-lösenord
@@ -109,6 +125,9 @@ Här finns dels 3.5mm-kontakt för att spela upp musik och mikrofon för att rop
 ut saker i högatlarna.
 Detta kommer dock förmodligen inte höras in till stängda mötesrum som vi
 kommer ändå behöva gå runt och säga till folk.
+
+### Skyltar
+Vi borde fixa skyltar så vi kan ange var man får vara.
 
 ### Väktare
 Det kommer att komma förbi väktare vid midnatt men dessa kommer att ha blivit
